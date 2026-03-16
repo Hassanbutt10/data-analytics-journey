@@ -1,31 +1,10 @@
-# Data Analytics Learning Journey
+#### Week 1 (March 13-16, 2026)
 
-## Progress Tracker
+| Day | Date | Problems | Hours | Topics |
+|-----|------|----------|-------|--------|
+| 1 | 3/13 | 5 | 2 | SELECT, FROM, WHERE basics |
+| 2 | 3/14 | 4 | 1 | JOINs, filtering, date functions |
+| 3 | 3/15 | 4 | 2 | LIKE, DISTINCT, AND/OR |
+| 4 | 3/16 | 10 | 1 | ORDER BY, SUBSTR, SUM, aggregates |
 
-### SQL Learning (HackerRank)
-
-**Total Problems Solved: 13/50**
-
-#### Week 1 (March 13-15, 2026)
-
-| Day | Date | Problems | Topics | Status |
-|-----|------|----------|--------|--------|
-| 1 | 3/13 | 5 | SELECT, FROM, WHERE | Complete |
-| 2 | 3/14 | 4 | JOINs, filtering, dates | Complete |
-| 3 | 3/15 | 4 | LIKE, DISTINCT, AND/OR | Complete |
-
-### Problems Solved (HackerRank Basic Select)
-
-1. Revising the Select Query I ✓
-2. Weather Observation Station 2 ✓
-3. Weather Observation Station 4 ✓
-4. Weather Observation Station 9 ✓
-
-### Next Goals
-- Complete 50 basic SQL problems
-- Move to intermediate SQL
-- Start Python/Pandas (Month 2)
-
-### Resources
-- HackerRank SQL (free)
-- LeetCode SQL 50 (for later)
+**Week 1 Total: 23 problems solved (46/50)**
